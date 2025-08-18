@@ -1,6 +1,6 @@
 # Ticino’s Economic Leap: Closing the Gap with Zurich
 
-This study analyzes the evolution of economic performance in the Swiss cantons of Ticino and Zurich over the period 2011–2022, focusing on the drivers of Gross Value Added (GVA) per capita. 
+This study analyzes the evolution of economic performance in the Swiss cantons of Ticino and Zurich over the period 2011–2022, focusing on the drivers of Gross Value Added (GVA) per capita, using Swiss Federal Statistical Office data.
 
 Using an extended identity decomposition framework, GVA per capita is broken into labor market components as labor productivity, participation rate, employment rate and average workload, with a specific adjustment for cross-border commuting. 
 
