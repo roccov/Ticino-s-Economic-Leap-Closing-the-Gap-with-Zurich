@@ -8,7 +8,9 @@ In addition, a sectoral decomposition of labor productivity is conducted to iden
 
 
 The results reveal a striking convergence between the two cantons: Ticino, traditionally lagging behind Zurich, has significantly narrowed the gap in GVA per capita by 2022.
+
 This catch-up is primarily attributed to strong sector-level productivity gains in a limited number of sectors, which disproportionately contributed to overall growth. 
+
 The findings underscore the importance of targeted sectoral development in regional economic planning and highlight the role of structural composition in shaping long-term economic trajectories.
 
 
