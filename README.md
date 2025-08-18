@@ -1,7 +1,7 @@
 # Ticino-s-Economic-Leap-Closing-the-Gap-with-Zurich
 
 
-##Collaborators:
+## Collaborators:
 
 This project was carried out as part of the Economic growth and sustainability II course taught by Professor Philippe Thalmann at the Ecole Polytechnique Fédérale de Lausanne (EPFL), supervised by  Ritika Batra and Sigit Perdana, in collaboration with:
 
