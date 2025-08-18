@@ -2,7 +2,7 @@
 
 This study analyzes the evolution of economic performance in the Swiss cantons of Ticino and Zurich over the period 2011–2022, focusing on the drivers of Gross Value Added (GVA) per capita. 
 
-Using an extended identity decomposition framework, GVA per capita is broken into labor market components as labour productivity, participation rate, employment rate and average workload, with a specific adjustment for cross-border commuting. 
+Using an extended identity decomposition framework, GVA per capita is broken into labor market components as labor productivity, participation rate, employment rate and average workload, with a specific adjustment for cross-border commuting. 
 
 In addition, a sectoral decomposition of labor productivity is conducted to identify the key industries driving observed changes, with a detailed attribution between sector-level efficiency shocks and inter-sector labor reallocation.
 
