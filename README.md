@@ -1,4 +1,4 @@
-# Ticino-s-Economic-Leap-Closing-the-Gap-with-Zurich
+# Ticino’s Economic Leap: Closing the Gap with Zurich
 
 
 ## Collaborators:
